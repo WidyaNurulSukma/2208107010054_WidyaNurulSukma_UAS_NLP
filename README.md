@@ -41,8 +41,8 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/yourusername/voice_chatbot_project.git
-   cd voice_chatbot_project
+   git clone https://github.com/WidyaNurulSukma/2208107010054_WidyaNurulSukma_UAS_NLP.git
+   cd 2208107010054_WidyaNurulSukma_UAS_NLP
    ```
 
 2. Instal dependensi Python:
@@ -84,7 +84,7 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 1. Jalankan backend FastAPI:
    ```bash
    cd app
-   uvicorn main:app --reload
+   uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
    ```
 
 2. Jalankan frontend Gradio (dalam terminal terpisah):
@@ -106,6 +106,12 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 ## 👨‍💻 Dibuat Untuk
 
 Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
+
+## Link Video Youtube
+https://youtu.be/umaHOS-L1vQ
+
+## Link Postingan LinkedIn
+https://www.linkedin.com/posts/widya-nurul-sukma_naturallanguageprocessing-speechtotext-texttospeech-activity-7330232624612835331-JWb4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2pckYBt5X-ZGCfIRRkOyDkXnCSY1hJLWY
 
 ## 📝 Lisensi
 
